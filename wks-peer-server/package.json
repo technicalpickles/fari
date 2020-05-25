@@ -1,0 +1,12 @@
+{
+  "name": "wks-peer-server",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "peer": "^0.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.4"
+  }
+}

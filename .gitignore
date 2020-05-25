@@ -101,3 +101,5 @@ dist
 
 # junit test results
 junit.xml
+.yarn
+.pnp.js
